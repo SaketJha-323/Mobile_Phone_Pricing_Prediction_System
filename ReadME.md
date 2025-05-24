@@ -63,3 +63,6 @@ This project focuses on predicting the **price range category** of mobile phones
 - The trained model predicts the **price range category**.
 - The output prediction is displayed with a descriptive label for better user interpretation.
 
+### Python Version
+
+- Python 3.12.5
