@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+.MPP/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
