@@ -47,7 +47,7 @@ This project focuses on predicting the **price range category** of mobile phones
   - *talk time per battery power*
 
 - **Models Evaluated:**  
-  Logistic Regression, Random Forest, XGBoost, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Gaussian Naive Bayes.
+  Logistic Regression, Stochastic Gradient Descent Classifier (SGD), Linear Discriminant Analysis (LDA), Random Forest, XGBoost, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Gaussian Naive Bayes.
 
 - **Final Model:**  
   Selected **Logistic Regression** for final deployment due to its high accuracy and interpretability, achieving over *97% accuracy* on the test dataset.
